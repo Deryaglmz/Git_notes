@@ -21,3 +21,4 @@
                                              
                                              git init
 ### içine dosya oluşturmak için: touch ilkbolum
+
