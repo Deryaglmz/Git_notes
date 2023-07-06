@@ -17,6 +17,7 @@
 
 ### git stash list : komutu ile mevcut saklanan değişikliklerin listesini görüntülenir.
 
+
 ### git stash apply : komutu en son saklanan değişiklikleri geri almak için kullanılır. Bu komut, değişiklikleri uygular ancak saklama alanını temizlemez, yani saklanan değişiklikler hala saklama alanında kalır.
 
 ### git stash clear : komutu kullanılarak tüm saklanmış değişiklikler kalıcı olarak silinir.
