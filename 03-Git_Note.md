@@ -21,3 +21,4 @@
 
 ### git stash clear : komutu kullanılarak tüm saklanmış değişiklikler kalıcı olarak silinir.
 
+
