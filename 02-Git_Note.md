@@ -1,5 +1,5 @@
 # Git_notes
-### projeye ekleme veya çıkarmay yapmak için
+### projeye ekleme veya çıkarma yapmak için
 #### sublime text'te yaz kaydet git'te
 #### git add .
 #### git commit -m "...."
@@ -15,7 +15,7 @@
                       
                       burda master yerine artık arkakapak yazar   
   ### yeni bir dosya oluşturup git'i başalatmak için :
-                                             mkdir jskitabi
+                                             mkdir dosyaa
 
                                              git status (gerek yok)
                                              
