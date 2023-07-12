@@ -21,4 +21,8 @@
                                              
                                              git init
 ### içine dosya oluşturmak için: touch ilkbolum
+### dosyanın içine attığın dosyayı gite atmak için
+                    git add .
+                    git commit -m "dosyanın commiti"
+                    git push origin master
 
